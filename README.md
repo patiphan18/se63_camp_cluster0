@@ -1,2 +1,4 @@
-# se63_camp_cluster0
-Project of OSSD Camp #10
+Asset Management System  
+This is a project in OSSD Camp #10  
+Develop by: Cluster 0, Semester 1/2021, Software Engineering  
+Faculty of Informatics, Burapha University  
